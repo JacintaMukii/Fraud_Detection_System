@@ -1,5 +1,7 @@
 # AI-Driven Fraud Detection in Financial Transactions using Azure OpenAI
 
+![Fraud Detection](https://rtslabs.com/wp-content/uploads/2024/04/fraud-detection1.jpeg)
+
 ## Introduction
 
 In an era of rapidly growing digital financial systems, fraud has become a sophisticated and persistent threat — costing institutions billions annually. Traditional rule-based systems often fall short due to their inability to adapt to evolving fraud tactics and complex behavioral patterns.
