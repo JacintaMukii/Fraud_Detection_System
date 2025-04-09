@@ -4,6 +4,8 @@
 
 ## Introduction
 
+![Fraud Detection GIF](https://i.pinimg.com/originals/06/d4/59/06d459148136cb42ae10c78c2dca9ebe.gif)
+
 In an era of rapidly growing digital financial systems, fraud has become a sophisticated and persistent threat — costing institutions billions annually. Traditional rule-based systems often fall short due to their inability to adapt to evolving fraud tactics and complex behavioral patterns.
 
 To address this challenge, our project leverages **Microsoft Fabric’s modern data architecture**, the **powerful language reasoning capabilities of Azure OpenAI's GPT-4 model**, and **interactive data visualization with Power BI** to create a smart, explainable fraud detection system.
@@ -19,6 +21,8 @@ The final fraud intelligence is surfaced through **Power BI dashboards**, offeri
 ---
 
 ## Problem Statement
+
+![Preventing Credit Card Fraud](https://www.wexinc.com/wp-content/uploads/2017/10/Preventing-credit-card-fraud-on-the-road.png)
 
 As digital banking and online payments expand, fraudsters continue to develop more complex, real-time attack strategies. Existing fraud detection methods — often built on rigid rules or traditional supervised models — struggle to detect novel fraud patterns or adapt to changing behavior.
 
@@ -58,6 +62,8 @@ To develop an AI-powered fraud detection system that can intelligently evaluate 
 - **Fraud Detection**: Use **Azure OpenAI GPT-4** to assess transactions, identifying potential fraud and generating risk summaries.
 - **Fraud Visualization**: Develop an interactive **Power BI** dashboard to display fraud risk insights.
 - **Scalable System**: Build a solution that can detect fraud efficiently as data grows.
+  
+<img width="1228" alt="Screenshot 2025-04-09 at 05 41 46" src="https://github.com/user-attachments/assets/01d23d37-0b66-4a3d-80dc-eb39d5db7f31" />
 
 ---
 
