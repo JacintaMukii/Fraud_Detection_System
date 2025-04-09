@@ -1,4 +1,4 @@
-# AI-Driven Fraud Detection in Financial Transactions using Azure OpenAI
+# AI-Driven Fraud Detection in Financial Transactions using Microsoft Fabric and Microsoft Azure OpenAI
 
 ![Fraud Detection](https://rtslabs.com/wp-content/uploads/2024/04/fraud-detection1.jpeg)
 
