@@ -4,7 +4,7 @@
 
 ## Introduction
 
-![Microsoft Fabric](https://lytix.be/wp-content/uploads/2024/09/Microsoft-Fabric-visual.png)
+![Fraud Detection GIF](https://media.licdn.com/dms/image/v2/D4E12AQGAvJX4k0QZAA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684907922196?e=2147483647&v=beta&t=XjBj9fJ-cuBgSYpDBWT209FuT5OfQNEuanIL1ZT7UMU)
 
 In an era of rapidly growing digital financial systems, fraud has become a sophisticated and persistent threat — costing institutions billions annually. Traditional rule-based systems often fall short due to their inability to adapt to evolving fraud tactics and complex behavioral patterns.
 
@@ -51,6 +51,8 @@ To develop an AI-powered fraud detection system that can intelligently evaluate 
 ---
 
 ## Data Methods
+
+![Microsoft Fabric](https://lytix.be/wp-content/uploads/2024/09/Microsoft-Fabric-visual.png)
 
 - **Data Analysis**: Process and clean financial transaction data using **Microsoft Fabric’s Lakehouse architecture**.
 - **Fraud Detection**: Use **Azure OpenAI GPT-4** to assess transactions, identifying potential fraud and generating risk summaries.
