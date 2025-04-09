@@ -4,6 +4,8 @@
 
 ## Introduction
 
+![Microsoft Fabric](https://lytix.be/wp-content/uploads/2024/09/Microsoft-Fabric-visual.png)
+
 In an era of rapidly growing digital financial systems, fraud has become a sophisticated and persistent threat — costing institutions billions annually. Traditional rule-based systems often fall short due to their inability to adapt to evolving fraud tactics and complex behavioral patterns.
 
 To address this challenge, our project leverages **Microsoft Fabric’s modern data architecture**, the **powerful language reasoning capabilities of Azure OpenAI's GPT-4 model**, and **interactive data visualization with Power BI** to create a smart, explainable fraud detection system.
@@ -32,6 +34,8 @@ By combining **Microsoft Fabric** for structured data processing and **GPT-4** f
 ---
 
 ## Objectives
+
+![Microsoft Fabric GenAI](https://robkerr.ai/content/images/2024/01/fabric_doc_genai.png)
 
 ### 3.1 Main Objective  
 To develop an AI-powered fraud detection system that can intelligently evaluate financial transactions, assign risk levels, and provide human-readable fraud justifications — using Azure OpenAI and Microsoft Fabric.
@@ -74,6 +78,8 @@ To develop an AI-powered fraud detection system that can intelligently evaluate 
 ---
 
 ## Technologies Used
+
+![Azure Blog Post](https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/08/8.2-social-image.png)
 
 - **Azure OpenAI GPT-4**: For natural language understanding and fraud risk analysis.
 - **Microsoft Fabric**: For handling the data pipeline using the **Lakehouse architecture**.
