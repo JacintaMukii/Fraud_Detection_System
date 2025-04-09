@@ -11,18 +11,20 @@ st.set_page_config(page_title="🕵️ Fraud Detection Bot", layout="centered")
 st.title("🕵️ Fraud Detection Chatbot")
 st.markdown("Paste a transaction and select your preferred language.")
 
-# User inputs
-transaction_input = st.text_area("Enter transaction (in JSON)", height=250)
-language = st.selectbox("Language", ["English", "Swahili", "Sheng"])
+# User input
+user_input = st.text_input("Paste transaction JSON below:")
+
+st.write("Raw Input:", user_input)  # Debug line to see what’s coming in
 
 if st.button("Analyze Transaction"):
-    try:
-        parsed_txn = json.loads(transaction_input)
-        res = requests.post(api_url, json={
-            "transaction": parsed_txn,
-            "language": language
-        }, headers={"Authorization": f"Bearer {api_key}"})
+    if not user_input:
+        st.warning("No input detected! Please paste JSON above.")
+    else:
+        try:
+            transaction_data = json.loads(user_input)
+            st.success("Transaction loaded successfully!")
+            st.json(transaction_data)
+        except json.JSONDecodeError as e:
+            st.error(f"Invalid JSON format: {e}")
 
-        st.success(res.json()["response"])
-    except Exception as e:
-        st.error(f"Error: {e}")
+
