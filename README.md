@@ -55,8 +55,7 @@ To develop an AI-powered fraud detection system that can intelligently evaluate 
 
 <img width="1424" alt="Screenshot 2025-04-10 at 17 19 39" src="https://github.com/user-attachments/assets/c794332c-71e1-4a06-b9dd-380478ad5596" />
 
-<img width="1424" alt="Screenshot 2025-04-10 at 17 19 39" src="https://github.com/user-attachments/assets/531b4e31-510a-41b8-806a-6db3a603c73c" />
-
+<img width="1431" alt="Screenshot 2025-04-10 at 20 21 48" src="https://github.com/user-attachments/assets/478b6ddd-69f9-46b7-a548-72517b65c4c0" />
 
 ### Specific Objectives
 
