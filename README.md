@@ -40,6 +40,14 @@ This project responds to this problem by introducing a **generative AI-based fra
 - Understands the context behind each transaction.
 - Flags anomalies based on behavioral reasoning — not just mathematical thresholds.
 
+<img width="796" alt="Screenshot 2025-04-10 at 20 38 33" src="https://github.com/user-attachments/assets/3de86b3e-dddd-4c9a-8b9c-b76cd64eabef" />
+
+<img width="739" alt="Screenshot 2025-04-10 at 20 35 06" src="https://github.com/user-attachments/assets/86514a10-d7bd-47e7-a7d0-ab52c677b6de" />
+
+<img width="737" alt="Screenshot 2025-04-10 at 20 47 00" src="https://github.com/user-attachments/assets/b36a6c6d-558e-45cc-96e6-ad569b2c0bb0" />
+
+<img width="734" alt="Screenshot 2025-04-10 at 20 47 11" src="https://github.com/user-attachments/assets/826b97eb-17d3-4fee-813e-544fbd10800a" />
+
 By combining **Microsoft Fabric** for structured data processing and **GPT-4** for intelligent transaction analysis, we aim to build a flexible, scalable system capable of detecting both known and unknown fraud behaviors.
 
 ---
@@ -54,14 +62,6 @@ To develop an AI-powered fraud detection system that can intelligently evaluate 
 <img width="1434" alt="Screenshot 2025-04-09 at 05 23 58" src="https://github.com/user-attachments/assets/ae4e0797-a287-4dea-a6ae-3174a803745f" />
 
 <img width="1424" alt="Screenshot 2025-04-10 at 17 19 39" src="https://github.com/user-attachments/assets/c794332c-71e1-4a06-b9dd-380478ad5596" />
-
-<img width="796" alt="Screenshot 2025-04-10 at 20 38 33" src="https://github.com/user-attachments/assets/3de86b3e-dddd-4c9a-8b9c-b76cd64eabef" />
-
-<img width="739" alt="Screenshot 2025-04-10 at 20 35 06" src="https://github.com/user-attachments/assets/86514a10-d7bd-47e7-a7d0-ab52c677b6de" />
-
-<img width="737" alt="Screenshot 2025-04-10 at 20 47 00" src="https://github.com/user-attachments/assets/b36a6c6d-558e-45cc-96e6-ad569b2c0bb0" />
-
-<img width="734" alt="Screenshot 2025-04-10 at 20 47 11" src="https://github.com/user-attachments/assets/826b97eb-17d3-4fee-813e-544fbd10800a" />
 
 ### Specific Objectives
 
