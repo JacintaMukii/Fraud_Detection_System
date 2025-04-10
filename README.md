@@ -53,6 +53,9 @@ To develop an AI-powered fraud detection system that can intelligently evaluate 
 
 <img width="1434" alt="Screenshot 2025-04-09 at 05 23 58" src="https://github.com/user-attachments/assets/ae4e0797-a287-4dea-a6ae-3174a803745f" />
 
+<img width="1424" alt="Screenshot 2025-04-10 at 17 19 39" src="https://github.com/user-attachments/assets/c794332c-71e1-4a06-b9dd-380478ad5596" />
+
+
 ### Specific Objectives
 
 - Ingest and process transactional data using the Lakehouse architecture (Bronze → Silver → Gold).
