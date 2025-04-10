@@ -3,12 +3,21 @@
 ![Fraud Detection](https://rtslabs.com/wp-content/uploads/2024/04/fraud-detection1.jpeg)
 
 ## Introduction
-
 ![Fraud Detection GIF](https://i.pinimg.com/originals/06/d4/59/06d459148136cb42ae10c78c2dca9ebe.gif)
+
+Video demo - https://drive.google.com/drive/folders/1Pyj3NvFOziMivPQ-oszDg78iF8R_kF_-?usp=drive_link
 
 In an era of rapidly growing digital financial systems, fraud has become a sophisticated and persistent threat — costing institutions billions annually. Traditional rule-based systems often fall short due to their inability to adapt to evolving fraud tactics and complex behavioral patterns.
 
 To address this challenge, our project leverages **Microsoft Fabric’s modern data architecture**, the **powerful language reasoning capabilities of Azure OpenAI's GPT-4 model**, and **interactive data visualization with Power BI** to create a smart, explainable fraud detection system.
+
+Notebooks:
+1. Fraud_detection (Bronze-Silver layer) - https://github.com/simonMakumi/Fraud_Detection_System/blob/main/Notebooks/Fraud_detection%20(Bronze%20-%20silver%20layer)%20(1).ipynb
+2. EDA (silver layer) - https://github.com/simonMakumi/Fraud_Detection_System/blob/main/Notebooks/EDA%20(Silver%20Layer)%20(1).ipynb
+3. Statistical Analysis (Silver) - https://github.com/simonMakumi/Fraud_Detection_System/blob/main/Notebooks/Statistical%20Analysis%20(Silver)%20(1)%20(1).ipynb
+4. Fraud_detection_Azure_OpenAI - https://github.com/simonMakumi/Fraud_Detection_System/blob/main/Notebooks/Fraud_detection_AzureOpenAI.ipynb
+5. Gold - https://github.com/simonMakumi/Fraud_Detection_System/blob/main/Notebooks/Gold.ipynb
+6. PowerBI Dashboard - https://github.com/simonMakumi/Fraud_Detection_System/blob/main/Fraud_detection_Dashboard.pbix
 
 Using a public transaction dataset from **Kaggle** as a proxy for real financial data, we simulate a production-grade fraud detection pipeline. The architecture is built on the **Lakehouse Medallion model (Bronze → Silver → Gold)** for organized data processing, feature engineering, and AI insights. The **GPT-4 model** (accessed through Azure OpenAI) analyzes each transaction and provides two outputs:
 - A concise, human-like explanation of whether the transaction seems fraudulent or not.
